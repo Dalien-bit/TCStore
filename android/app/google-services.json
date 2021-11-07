@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "194246484415",
+    "project_id": "tcstore-720db",
+    "storage_bucket": "tcstore-720db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194246484415:android:12da2333fd5cc51298810a",
+        "android_client_info": {
+          "package_name": "com.example.tcstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "194246484415-1edrnsu9a4vv2084c1m3b8gm1ahd5b6n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAPSjCNGBotdYorvMbk7zIrOi0lf7loZ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "194246484415-1edrnsu9a4vv2084c1m3b8gm1ahd5b6n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
